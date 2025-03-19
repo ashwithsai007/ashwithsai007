@@ -20,7 +20,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,sql,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,sql,javascript,html,css,aws,azure,gcp,docker,kubernetes,terraform,tensorflow,pytorch,pandas" />
 </p>
 
 ### 🔹 AI & Data Science  
@@ -58,9 +58,9 @@
 
 ---
 
-## 🎨 Fake GitHub Visualization 📊  
+## 🎨 GitHub Activity Visualization 📊  
 <p align="center">
-  <img src="https://fake-github-stats-api.com?username=ashwithsai007&theme=dark" alt="Fake GitHub Stats Visualization"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashwithsai007&theme=github_dark" alt="GitHub Activity Visualization"/>
 </p>
 
 ---
