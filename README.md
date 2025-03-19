@@ -1,104 +1,60 @@
-<h1 align="center">Hey there, I'm Ashwith Sai Neelagiri! 👋🚀</h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-  <i>Data & Software Engineer | AI & ML Enthusiast | Cloud & DevOps | Problem Solver</i>
-</p>
+### 👋 Hi, I'm Ashwith Sai Neelagiri!  
+
+🚀 **Data & Software Engineer | AI & Cloud Enthusiast**  
+🎓 **MSc Computer Science, The George Washington University**  
+💡 Passionate about **Software Development, Machine Learning, APIs, and Cloud Computing**  
+📬 **Reach me at:** ashwithsai03@gmail.com  
 
 ---
 
-## 🎯 About Me
-🚀 **MSc in Computer Science** from **The George Washington University**  
-🔹 **2+ years** experience in **Data Administration** | **1.5+ years** in **Software Development**  
-💡 Passionate about **Machine Learning, Backend Development, and Cloud Computing**  
-📊 Skilled in **Data Analytics, Predictive Modeling, and AI-Powered Solutions**  
-
-📧 **Email:** [ashwithsai03@gmail.com](mailto:ashwithsai03@gmail.com)  
-🔗 **LinkedIn:** [Ashwith Sai Neelagiri](https://www.linkedin.com/in/ashwith-sai-neelagiri-b42a90194/)  
-🌐 **Portfolio & Projects:** [GitHub Repos](https://github.com/ashwithsai007?tab=repositories)  
-
----
-
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,sql,javascript,html,css,aws,azure,gcp,docker,kubernetes,terraform,tensorflow,pytorch,pandas" />
-</p>
-
-### 🔹 AI & Data Science  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-### 🔹 Cloud & DevOps  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+## 🌟 About Me
+- 🖥️ **2+ years** in **Data Administration** | **1.5+ years** in **Software Development & APIs**  
+- 🏆 Built **high-performance, scalable software solutions** for real-world challenges  
+- 🔥 Enthusiastic about **AI-powered automation, cloud technologies, and cybersecurity**  
+- 💻 **Proficient in:** Python, C++, Java, SQL, Power BI, Tableau, and more!  
 
 ---
 
 ## 📊 GitHub Stats & Activity
 
-### 🚀 **GitHub Profile Overview**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashwithsai007&show_icons=true&theme=radical&hide_border=true" width="400px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwithsai007&theme=radical&hide_border=true" width="400px"/>
-</p>
+<img src="/mnt/data/A_visually_appealing_infographic_showing_a_GitHub_.png" width="700" alt="GitHub Stats">
 
-### 📌 **Fake GitHub Stats**  
-✅ **Total Commits in 2024:** `1,527`  
-✅ **PRs Merged:** `289`  
-✅ **Repositories Contributed To:** `34`  
-✅ **Issues Resolved:** `190`  
-✅ **Top Languages:** `Python, C++, Java, SQL, JavaScript`  
-
----
-
-## 🎨 GitHub Activity Visualization 📊  
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashwithsai007&theme=github_dark" alt="GitHub Activity Visualization"/>
-</p>
+### **📌 Fake GitHub Stats**
+✔ **Total Commits:** 1,527  
+✔ **PRs Merged:** 289  
+✔ **Repositories Contributed To:** 34  
+✔ **Issues Resolved:** 190  
+✔ **Top Languages:** Python, C++, Java, SQL, JavaScript  
 
 ---
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github.com/ashwithsai007/project-banner.png" width="80%" alt="AI ML Projects">
-</p>
+<img src="/mnt/data/A_visually_appealing_featured_projects_showcase_fo.png" width="700" alt="Featured Projects">
 
-| 📌 Project | 🔍 Description |
-|------------|--------------|
-| **[Intrusion Detection System](https://github.com/ashwithsai007/intrusion-detection)** | AI-powered network security solution. |
-| **[Transit Delay Prediction](https://github.com/ashwithsai007/transit-delay-prediction)** | Predicting public transport delays using ML. |
-| **[Blockchain IoT Secure Storage](https://github.com/ashwithsai007/blockchain-iot-storage)** | Secure IoT data storage using blockchain. |
-| **[Cyber Breach Prediction](https://github.com/ashwithsai007/cyber-breach-prediction)** | Predicting cyber attacks with machine learning. |
+### **🔹 Some of My Work:**
+🔹 **[Intrusion Detection System](#)** - AI-powered network security solution  
+🔹 **[Transit Delay Prediction](#)** - Predicting public transport delays using ML  
+🔹 **[Blockchain IoT Secure Storage](#)** - Secure IoT data storage using blockchain  
+🔹 **[Cyber Breach Prediction](#)** - Predicting cyber attacks with machine learning  
 
 ---
 
-## 🏆 Certifications & Achievements
+## 💻 Tech Stack
+### **Programming Languages**
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B) ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java) ![SQL](https://img.shields.io/badge/-SQL-orange?style=flat-square&logo=mysql)
 
-✔ **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**  
-✔ **Oracle Database SQL Certified Associate**  
-✔ **AWS Solutions Architect - Associate**  
-✔ **Certified in Data Structures & Algorithms (GeeksforGeeks)**  
-✔ **Top Member in Python Bootcamp (SRM)**  
-✔ **Published papers on RPA and NLP**  
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws) ![Azure](https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=microsoft-azure) ![Google Cloud](https://img.shields.io/badge/-GoogleCloud-yellow?style=flat-square&logo=google-cloud) ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=flat-square&logo=kubernetes)
 
----
-
-## 🌎 Let's Connect!
-<p align="center">
-  <a href="https://www.linkedin.com/in/ashwith-sai-neelagiri-b42a90194/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:ashwithsai03@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/ashwithsai007"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
-</p>
+### **Data Science & Visualization**
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow) ![Scikit Learn](https://img.shields.io/badge/-ScikitLearn-blue?style=flat-square&logo=scikit-learn) ![Power BI](https://img.shields.io/badge/-PowerBI-yellow?style=flat-square&logo=powerbi) ![Tableau](https://img.shields.io/badge/-Tableau-orange?style=flat-square&logo=tableau)
 
 ---
-🚀 _Open to opportunities in Software Development, Cloud Computing, AI, and Data Science._  
-🌟 **Star** this repo if you like it! ⭐  
-💬 _Feel free to reach out for collaboration or discussions._  
+
+## 📫 Let's Connect
+🌐 **LinkedIn:** [Ashwith Sai Neelagiri](https://www.linkedin.com/in/ashwith-sai-neelagiri-b42a90194/)  
+📩 **Email:** ashwithsai03@gmail.com  
+⚡ **GitHub:** [ashwithsai007](https://github.com/ashwithsai007/)  
+
+💡 *Always learning, innovating, and building the future!* 🚀
