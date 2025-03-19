@@ -1,84 +1,106 @@
-<h1 align="center">👋 Hi, I'm Ashwith Sai Neelagiri!</h1>
-<h3 align="center">🚀 Data & Software Engineer | Machine Learning | Cloud Computing | AI & Automation</h3>
-
+<h1 align="center">Hi there, I'm Ashwith Sai Neelagiri! 👋🚀</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashwith-sai-neelagiri-b42a90194/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ashwithsai03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/ashwithsai007">
-    <img src="https://img.shields.io/github/followers/ashwithsai007?label=Follow&style=social" />
-  </a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  <i>Data & Software Engineer | AI & ML Enthusiast | Cloud & DevOps | Problem Solver</i>
 </p>
 
 ---
 
-## 🚀 **About Me**
-🎓 **MSc in Computer Science** from **George Washington University**  
-💾 **2+ years in Data Administration & Analytics** | 📡 **1.5+ years in Software Development & API Engineering**  
-💡 Passionate about **Backend Development, Cloud Computing, Data Science, and Automation**  
-⚡ Experienced in **building scalable ML solutions, cloud-based architectures, and AI-powered applications**  
+## 🎯 About Me
+🚀 **MSc in Computer Science** from **The George Washington University**  
+🔹 **2+ years** experience in **Data Administration** | **1.5+ years** in **Software Development**  
+💡 Passionate about **Machine Learning, Backend Development, and Cloud Computing**  
+📊 Skilled in **Data Analytics, Predictive Modeling, and AI-Powered Solutions**  
+
+📧 **Email:** [ashwithsai03@gmail.com](mailto:ashwithsai03@gmail.com)  
+🔗 **LinkedIn:** [Ashwith Sai Neelagiri](https://www.linkedin.com/in/ashwith-sai-neelagiri-b42a90194/)  
+🌐 **Portfolio & Projects:** [GitHub Repos](https://github.com/ashwithsai007?tab=repositories)  
 
 ---
 
-## 🛠 **Tech Stack & Expertise**
-### 🚀 **Programming Languages**
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,sql,javascript,html,css" />
+</p>
 
-### 📊 **Data Science & AI**
+### 🔹 AI & Data Science  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
-### ☁️ **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+### 🔹 Cloud & DevOps  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 ---
 
-## 📊 **GitHub Stats & Activity**
+## 📊 GitHub Stats & Activity
+
+### 🚀 Ashwith Sai Neelagiri's GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashwithsai007&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwithsai007&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwithsai007&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashwithsai007&show_icons=true&theme=radical&hide_border=true" width="400px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwithsai007&theme=radical&hide_border=true" width="400px"/>
 </p>
 
-### **📈 Fake GitHub Stats**
-- **Total Commits in 2024:** `1,527`  
-- **PRs Merged:** `289`  
-- **Repositories Contributed To:** `34`  
-- **Issues Resolved:** `190`  
-- **Top Languages:** `Python`, `C++`, `Java`, `SQL`, `JavaScript`  
+### 📌 Fake GitHub Stats  
+- **Total Commits in 2024:** `1,527`
+- **PRs Merged:** `289`
+- **Repositories Contributed To:** `34`
+- **Issues Resolved:** `190`
+- **Top Languages:** `Python, C++, Java, SQL, JavaScript`
 
 ---
 
-## 🚀 **Highlighted Projects**
-- **[Intrusion Detection System](https://github.com/ashwithsai007/Intrusion-Detection)** - AI-powered network security solution.
-- **[Transit Delay Prediction](https://github.com/ashwithsai007/Transit-Prediction)** - Predicting public transport delays using ML.
-- **[Blockchain IoT Secure Storage](https://github.com/ashwithsai007/Blockchain-IoT)** - Secure IoT data storage using blockchain.
-- **[Cyber Breach Prediction](https://github.com/ashwithsai007/Cyber-Breach-ML)** - Predicting cyber attacks with machine learning.
+## 🚀 Featured Projects
 
-📌 **Check out my repositories for more innovative projects!** 🚀  
+<p align="center">
+  <img src="https://media.giphy.com/media/UqWk3C5F4ugR8q0EJM/giphy.gif" width="80%" alt="AI ML Projects">
+</p>
+
+| 📌 Project | 🔍 Description |
+|------------|--------------|
+| **[Intrusion Detection System](https://github.com/ashwithsai007/intrusion-detection)** | AI-powered network security solution. |
+| **[Transit Delay Prediction](https://github.com/ashwithsai007/transit-delay-prediction)** | Predicting public transport delays using ML. |
+| **[Blockchain IoT Secure Storage](https://github.com/ashwithsai007/blockchain-iot-storage)** | Secure IoT data storage using blockchain. |
+| **[Cyber Breach Prediction](https://github.com/ashwithsai007/cyber-breach-prediction)** | Predicting cyber attacks with machine learning. |
+
+---
+
+## 🏆 Certifications & Achievements
+
+✔ **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**  
+✔ **Oracle Database SQL Certified Associate**  
+✔ **AWS Solutions Architect - Associate**  
+✔ **Certified in Data Structures & Algorithms (GeeksforGeeks)**  
+✔ **Top Member in Python Bootcamp (SRM)**  
+✔ **Published papers on RPA and NLP**  
 
 ---
 
-### 🤝 **Let's Connect!**
-📩 Reach out on **[LinkedIn](https://www.linkedin.com/in/ashwith-sai-neelagiri-b42a90194/)**  
-📧 Contact me at **ashwithsai03@gmail.com**  
-🌐 Explore my **[GitHub Portfolio](https://github.com/ashwithsai007/)**  
+## 🌎 Let's Connect!
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashwith-sai-neelagiri-b42a90194/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:ashwithsai03@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/ashwithsai007"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
+</p>
 
 ---
+🚀 _Open to opportunities in Software Development, Cloud Computing, AI, and Data Science._  
+🌟 **Star** this repo if you like it! ⭐  
+💬 _Feel free to reach out for collaboration or discussions._  
+
+---
+
+This README **stands out** by:
+✅ Using **visual badges & images** for appeal  
+✅ Highlighting **key skills, projects, and achievements**  
+✅ Presenting **fake GitHub stats** in a **realistic** and **professional** way  
+
+🚀 Let me know if you'd like any refinements! 🔥
