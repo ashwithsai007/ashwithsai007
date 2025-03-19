@@ -1,60 +1,61 @@
-### 👋 Hi, I'm Ashwith Sai Neelagiri!  
-
-🚀 **Data & Software Engineer | AI & Cloud Enthusiast**  
-🎓 **MSc Computer Science, The George Washington University**  
-💡 Passionate about **Software Development, Machine Learning, APIs, and Cloud Computing**  
-📬 **Reach me at:** ashwithsai03@gmail.com  
+<h1 align="center">🚀 Ashwith Sai Neelagiri | Data & Software Engineer</h1>
+<p align="center">
+  <img src="https://github.com/ashwithsai007/ashwithsai007/blob/main/8c26702a-ac6b-4d06-886a-330424d50137.webp" width="600px" alt="GitHub Stats Overview">
+</p>
 
 ---
 
-## 🌟 About Me
-- 🖥️ **2+ years** in **Data Administration** | **1.5+ years** in **Software Development & APIs**  
-- 🏆 Built **high-performance, scalable software solutions** for real-world challenges  
-- 🔥 Enthusiastic about **AI-powered automation, cloud technologies, and cybersecurity**  
-- 💻 **Proficient in:** Python, C++, Java, SQL, Power BI, Tableau, and more!  
+### 💡 About Me  
+🎓 **CS Graduate @ GWU** | 🖥️ **Data & Software Engineer**  
+💡 **Passionate About:** Backend Development, Machine Learning, Automation, AI-Powered Solutions  
+📊 **Experience:** 2+ Years in Data Administration | 1.5+ Years in Software Development & APIs  
 
 ---
 
-## 📊 GitHub Stats & Activity
+### 🔧 Tech Stack & Skills  
+**Programming Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 
-<img src="/mnt/data/A_visually_appealing_infographic_showing_a_GitHub_.png" width="700" alt="GitHub Stats">
+**Data & AI Tools:**  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### **📌 Fake GitHub Stats**
-✔ **Total Commits:** 1,527  
-✔ **PRs Merged:** 289  
-✔ **Repositories Contributed To:** 34  
-✔ **Issues Resolved:** 190  
-✔ **Top Languages:** Python, C++, Java, SQL, JavaScript  
-
----
-
-## 🚀 Featured Projects
-
-<img src="/mnt/data/A_visually_appealing_featured_projects_showcase_fo.png" width="700" alt="Featured Projects">
-
-### **🔹 Some of My Work:**
-🔹 **[Intrusion Detection System](#)** - AI-powered network security solution  
-🔹 **[Transit Delay Prediction](#)** - Predicting public transport delays using ML  
-🔹 **[Blockchain IoT Secure Storage](#)** - Secure IoT data storage using blockchain  
-🔹 **[Cyber Breach Prediction](#)** - Predicting cyber attacks with machine learning  
+**Cloud & DevOps:**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
-## 💻 Tech Stack
-### **Programming Languages**
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B) ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java) ![SQL](https://img.shields.io/badge/-SQL-orange?style=flat-square&logo=mysql)
-
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws) ![Azure](https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=microsoft-azure) ![Google Cloud](https://img.shields.io/badge/-GoogleCloud-yellow?style=flat-square&logo=google-cloud) ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=flat-square&logo=kubernetes)
-
-### **Data Science & Visualization**
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow) ![Scikit Learn](https://img.shields.io/badge/-ScikitLearn-blue?style=flat-square&logo=scikit-learn) ![Power BI](https://img.shields.io/badge/-PowerBI-yellow?style=flat-square&logo=powerbi) ![Tableau](https://img.shields.io/badge/-Tableau-orange?style=flat-square&logo=tableau)
+### 📈 GitHub Stats & Activity  
+📊 **GitHub Contributions & Projects**  
+<p align="center">
+  <img src="https://github.com/ashwithsai007/ashwithsai007/blob/main/ae298902-5858-4247-9feb-2932cf06f180-2.webp" width="600px" alt="Fake GitHub Stats">
+</p>
 
 ---
 
-## 📫 Let's Connect
-🌐 **LinkedIn:** [Ashwith Sai Neelagiri](https://www.linkedin.com/in/ashwith-sai-neelagiri-b42a90194/)  
-📩 **Email:** ashwithsai03@gmail.com  
-⚡ **GitHub:** [ashwithsai007](https://github.com/ashwithsai007/)  
+### 🚀 Featured Projects  
+📌 **Some of My Best Work:**  
+| 🔹 **Project** | 📌 **Description** |
+|-------------|----------------|
+| **[Intrusion Detection System](https://github.com/ashwithsai007/intrusion-detection)** | AI-powered network security solution |
+| **[Transit Delay Prediction](https://github.com/ashwithsai007/transit-prediction)** | Predicting public transport delays using ML |
+| **[Blockchain IoT Secure Storage](https://github.com/ashwithsai007/blockchain-storage)** | Secure IoT data storage using blockchain |
+| **[Cyber Breach Prediction](https://github.com/ashwithsai007/cyber-breach-prediction)** | Predicting cyber attacks with machine learning |
 
-💡 *Always learning, innovating, and building the future!* 🚀
+---
+
+### 📞 Contact & Social Links  
+📩 **Email:** [ashwithsai03@gmail.com](mailto:ashwithsai03@gmail.com)  
+💼 **LinkedIn:** [Ashwith Sai Neelagiri](https://www.linkedin.com/in/ashwith-sai-neelagiri-b42a90194/)  
+💻 **GitHub:** [ashwithsai007](https://github.com/ashwithsai007)  
+
+---
+🚀 **Let's Connect & Build Something Amazing!**  
