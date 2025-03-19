@@ -43,18 +43,25 @@
 
 ## 📊 GitHub Stats & Activity
 
-### 🚀 Ashwith Sai Neelagiri's GitHub Stats
+### 🚀 **GitHub Profile Overview**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashwithsai007&show_icons=true&theme=radical&hide_border=true" width="400px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwithsai007&theme=radical&hide_border=true" width="400px"/>
 </p>
 
-### 📌 Fake GitHub Stats  
-- **Total Commits in 2024:** `1,527`
-- **PRs Merged:** `289`
-- **Repositories Contributed To:** `34`
-- **Issues Resolved:** `190`
-- **Top Languages:** `Python, C++, Java, SQL, JavaScript`
+### 📌 **Fake GitHub Stats**  
+✅ **Total Commits in 2024:** `1,527`  
+✅ **PRs Merged:** `289`  
+✅ **Repositories Contributed To:** `34`  
+✅ **Issues Resolved:** `190`  
+✅ **Top Languages:** `Python, C++, Java, SQL, JavaScript`  
+
+---
+
+## 🎨 Fake GitHub Visualization 📊  
+<p align="center">
+  <img src="https://fake-github-stats-api.com?username=ashwithsai007&theme=dark" alt="Fake GitHub Stats Visualization"/>
+</p>
 
 ---
 
@@ -97,10 +104,3 @@
 💬 _Feel free to reach out for collaboration or discussions._  
 
 ---
-
-This README **stands out** by:
-✅ Using **visual badges & images** for appeal  
-✅ Highlighting **key skills, projects, and achievements**  
-✅ Presenting **fake GitHub stats** in a **realistic** and **professional** way  
-
-🚀 Let me know if you'd like any refinements! 🔥
