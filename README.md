@@ -1,5 +1,11 @@
-<h1 align="center">🚀 Ashwith Sai Neelagiri | Data & Software Engineer</h1>
+# 👋 Hi there, I'm Ashwith Sai Neelagiri!  
+#### 🚀 Software & Data Engineer | Backend & AI Enthusiast | Problem Solver  
 
+🌟 "Technology evolves, and so do I. Learning is infinite, and every line of code is a step towards a better tomorrow."  
+
+Welcome to my **digital playground**—where I continuously explore, build, and innovate. From **backend engineering** to **machine learning**, **automation**, and **cloud computing**, I thrive on solving complex challenges and creating scalable solutions.  
+
+---
 ### 🏆 About Me  
 🎓 **Recent CS Graduate @ The George Washington University** | 🏅 **Data & Software Engineer**  
 💡 **Passionate About:** Backend Development, Machine Learning, Cloud Computing, Automation & AI-Powered Solutions  
