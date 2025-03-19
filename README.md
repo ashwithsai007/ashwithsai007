@@ -1,5 +1,4 @@
 <h1 align="center">🚀 Ashwith Sai Neelagiri | Data & Software Engineer</h1>
----
 
 ### 🏆 About Me  
 🎓 **Recent CS Graduate @ The George Washington University** | 🏅 **Data & Software Engineer**  
