@@ -9,6 +9,7 @@ Welcome to my **digital playground**—where I continuously explore, build, and 
 ### 🏆 About Me  
 🎓 **Recent CS Graduate @ The George Washington University** | 🏅 **Data & Software Engineer**  
 💡 **Passionate About:** Backend Development, Machine Learning, Cloud Computing, Automation & AI-Powered Solutions  
+
 📊 **Experience:**  
 ✅ **2+ Years** in **Data Administration** (Database Optimization, Data Pipelines, Security, Reporting)  
 ✅ **1.5+ Years** in **Software Development & API Engineering** (REST APIs, Cloud Services, Automation)  
