@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ashwith Sai Neelagiri! 👋🚀</h1>
+<h1 align="center">Hey there, I'm Ashwith Sai Neelagiri! 👋🚀</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
   <i>Data & Software Engineer | AI & ML Enthusiast | Cloud & DevOps | Problem Solver</i>
@@ -43,9 +43,13 @@
 
 ## 📊 GitHub Stats & Activity
 
+### 🚀 **GitHub Profile Overview**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashwithsai007&show_icons=true&theme=radical&hide_border=true" width="400px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwithsai007&theme=radical&hide_border=true" width="400px"/>
+</p>
 
-
-### 📌 ** GitHub Stats**  
+### 📌 **Fake GitHub Stats**  
 ✅ **Total Commits in 2024:** `1,527`  
 ✅ **PRs Merged:** `289`  
 ✅ **Repositories Contributed To:** `34`  
@@ -64,7 +68,7 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://media.giphy.com/media/UqWk3C5F4ugR8q0EJM/giphy.gif" width="80%" alt="AI ML Projects">
+  <img src="https://github.com/ashwithsai007/project-banner.png" width="80%" alt="AI ML Projects">
 </p>
 
 | 📌 Project | 🔍 Description |
@@ -98,5 +102,3 @@
 🚀 _Open to opportunities in Software Development, Cloud Computing, AI, and Data Science._  
 🌟 **Star** this repo if you like it! ⭐  
 💬 _Feel free to reach out for collaboration or discussions._  
-
----
