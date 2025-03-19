@@ -1,8 +1,4 @@
 <h1 align="center">🚀 Ashwith Sai Neelagiri | Data & Software Engineer</h1>
-<p align="center">
-  <img src="https://github.com/ashwithsai007/ashwithsai007/blob/main/8c26702a-ac6b-4d06-886a-330424d50137.webp" width="450px" alt="GitHub Stats Overview">
-</p>
-
 ---
 
 ### 🏆 About Me  
@@ -53,6 +49,9 @@
 ---
 
 ### 🚀 Featured Projects  
+<p align="center">
+  <img src="https://github.com/ashwithsai007/ashwithsai007/blob/main/8c26702a-ac6b-4d06-886a-330424d50137.webp" width="350px" alt="GitHub Stats Overview">
+</p>
 📌 **Some of My Best Work:**  
 | 🔹 **Project** | 📌 **Description** |
 |-------------|----------------|
