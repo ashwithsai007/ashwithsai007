@@ -71,8 +71,6 @@ What sets me apart? I speak both “data” and “impact.” My pipelines don�
 | **[Blockchain IoT Secure Storage](https://github.com/ashwithsai007/blockchain-storage)** | Secure IoT data storage using blockchain |
 | **[Cyber Breach Prediction](https://github.com/ashwithsai007/cyber-breach-prediction)** | Predicting cyber attacks with machine learning |
 
----
-
 ### 🎯 Grant Risk Intelligence Model  
 Built ML models to flag compliance risks across NIH-funded research grants—saving ~$25K annually in potential penalty exposure.  
 **Tech:** Python, scikit-learn, SQL, Power BI
@@ -85,6 +83,7 @@ Connected Snowflake and Power BI to deliver live KPI dashboards used by universi
 Engineered a C++ and Bash-based data pipeline for large-scale compliance reporting; reduced human intervention by 70%.  
 **Tech:** C++, Bash, PostgreSQL
 
+---
 
 ### 📜 Certifications & Achievements  
 🏅 **Microsoft Certified: Power BI Data Analyst (PL-300)**  
