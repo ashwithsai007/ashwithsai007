@@ -45,9 +45,6 @@ What sets me apart? I speak both “data” and “impact.” My pipelines don�
 ---
 
 ### 📈 GitHub Stats & Activity  
-<p align="center">
-  <img src="https://github.com/ashwithsai007/ashwithsai007/blob/main/ae298902-5858-4247-9feb-2932cf06f180-2.webp" width="300px" alt="GitHub Stats">
-</p>
 
 📊 **GitHub Contributions & Projects**  
 ✔ **Total Commits in 2024:** `1,527`  
