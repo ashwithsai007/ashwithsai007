@@ -97,4 +97,6 @@ Engineered a C++ and Bash-based data pipeline for large-scale compliance reporti
 
 ---
 
+> *“Clean data. Clear code. Real results.”*
+
 🚀 **Let's Connect & Build Something Amazing!**  
