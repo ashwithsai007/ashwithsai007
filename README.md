@@ -7,6 +7,9 @@ Welcome to my **digital playground**—where I continuously explore, build, and 
 
 ---
 ### 🏆 About Me  
+
+What sets me apart? I speak both “data” and “impact.” My pipelines don’t just run—they drive real decisions. My dashboards aren’t just visual—they’re used. And my code doesn’t just pass—it scales, lasts, and solves something that matters.
+
 🎓 **Recent CS Graduate @ The George Washington University** | 🏅 **Data & Software Engineer**  
 💡 **Passionate About:** Backend Development, Machine Learning, Cloud Computing, Automation & AI-Powered Solutions  
 
