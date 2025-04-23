@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Ashwith Sai Neelagiri!  
-#### 🚀 Software & Data Engineer | Backend & AI Enthusiast | Problem Solver  
+#### 🚀  Data Engineer | Turning Data Chaos into Scalable Systems | Python, SQL, Power BI | Built Grant Dashboards Used by CFOs | Ex-Software Dev (C++/R/Bash) | MS CS @GWU
 
 🌟 "Technology evolves, and so do I. Learning is infinite, and every line of code is a step towards a better tomorrow."  
 
