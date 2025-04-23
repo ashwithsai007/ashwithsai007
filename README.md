@@ -73,6 +73,19 @@ What sets me apart? I speak both “data” and “impact.” My pipelines don�
 
 ---
 
+### 🎯 Grant Risk Intelligence Model  
+Built ML models to flag compliance risks across NIH-funded research grants—saving ~$25K annually in potential penalty exposure.  
+**Tech:** Python, scikit-learn, SQL, Power BI
+
+### 📈 Executive KPI Suite  
+Connected Snowflake and Power BI to deliver live KPI dashboards used by university leadership to guide funding strategy.  
+**Tech:** Snowflake, SQL Server, Power BI
+
+### 📂 Regulatory Workflow Automation  
+Engineered a C++ and Bash-based data pipeline for large-scale compliance reporting; reduced human intervention by 70%.  
+**Tech:** C++, Bash, PostgreSQL
+
+
 ### 📜 Certifications & Achievements  
 🏅 **Microsoft Certified: Power BI Data Analyst (PL-300)**  
 🏅 **Oracle Database SQL Certified Associate**  
